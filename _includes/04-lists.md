@@ -1,4 +1,4 @@
-- drawing
+- drawing :sparkles:
 - sleeping
 - singing
 - spending money
