@@ -1,1 +1,1 @@
-[GutHub](https://github.com/Khairul-Khanafi)
+[GitHub](https://github.com/Khairul-Khanafi)
